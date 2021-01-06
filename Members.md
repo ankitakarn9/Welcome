@@ -3,12 +3,20 @@ These are the amazing people who have took a step forward to help me get this go
 
 Use this template to introduce yourself:  
 
-- __Name__:  
-__Country__:  
+ __Name__:  
+__Country__:
 __About__:  
 __Tech Stack__:  
 __Social Handles__:  
 __Website__:  
+
+
+- __Name__:  Ankita Karn
+__Country__:  India
+__About__:  Information technology undergraduate senior year, from Rajkiya Engineering College,Azamgarh. 
+__Tech Stack__: Python,C++,Machine Learning,Django,Deep Learning HTML,CSS
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/ankita-karn-637346173/) | [GitHub](https://github.com/ankitakarn9) | [Email](ankitakarn09@gmail.com)
+__Website__:  [Portfolio](https://github.com/ankitakarn9/Portfolio)
 
 - __Name__: Ahammad Shawki  
 __Country__: Bangladesh  
